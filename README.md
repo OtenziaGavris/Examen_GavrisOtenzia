@@ -7,3 +7,4 @@ Entități:
 -	Arbore, sanatate_arbore
 -	Interventie_silvica, angajat, angajat_interventie
 -	Proprietar 
+
